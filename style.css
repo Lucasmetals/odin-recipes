@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+li::marker {
+    color: orange;
+}
+
+* {
+    background-color: ivory;
+}
+
+.header {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
